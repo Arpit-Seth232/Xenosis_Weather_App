@@ -11,7 +11,7 @@ This is a simple Weather App built using **HTML**, **CSS**, and **JavaScript**. 
 ## Demo
 
 You can view the live demo of the Weather App at:  
-[Weather App Demo](https://superb-biscochitos-ee23c8.netlify.app/)
+[Weather App Demo](https://weather-webxapp.netlify.app/)
 
 ## Installation
 
