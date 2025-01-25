@@ -9,7 +9,7 @@ Features :-
 
 
 Demo :-
-You can view the live demo of the Weather App superb-biscochitos-ee23c8.netlify.app.
+You can view the live demo of the Weather App [superb-biscochitos-ee23c8.netlify.app](https://superb-biscochitos-ee23c8.netlify.app/).
 
 
 Installation:-
