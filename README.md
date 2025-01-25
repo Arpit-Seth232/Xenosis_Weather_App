@@ -41,11 +41,12 @@ Contributing :-
 Feel free to fork the repository and submit issues or pull requests if you have any suggestions or improvements.
 
 Steps to contribute:-
-1)Fork the repository.
-2)Create a new branch: git checkout -b new-feature
-3)Make your changes and commit them: git commit -am 'Add new feature'
-4)Push to your branch: git push origin new-feature
-5)Submit a pull request.
+
+1) Fork the repository.
+2) Create a new branch: git checkout -b new-feature
+3) Make your changes and commit them: git commit -am 'Add new feature'
+4) Push to your branch: git push origin new-feature
+5) Submit a pull request.
 
 
 License :-
