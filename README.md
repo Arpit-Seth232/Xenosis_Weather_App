@@ -32,10 +32,10 @@ This app uses the OpenWeatherMap API to fetch weather data. You need an API key 
 
 Technologies Used :-
 
-HTML5: Used to structure the web page.
-CSS3: Used to style the app and make it responsive.
-JavaScript (ES6): Used for fetching weather data and manipulating the DOM.
-OpenWeatherMap API: Provides real-time weather data.
+1) HTML5: Used to structure the web page.
+2) CSS3: Used to style the app and make it responsive.
+3) JavaScript (ES6): Used for fetching weather data and manipulating the DOM.
+4) OpenWeatherMap API: Provides real-time weather data.
 
 
 Contributing :-
