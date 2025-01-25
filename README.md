@@ -1,4 +1,4 @@
-# Xenosis_Weather_App
+# Weather_App
 
 This is a simple Weather App built using HTML, CSS, and JavaScript. It allows users to search for the weather of any city by utilizing the OpenWeatherMap API. The app displays the current temperature, weather condition, and an icon representing the weather.
 
@@ -50,8 +50,11 @@ Steps to contribute:-
 
 
 License :-
+
 This project is open-source and available under the MIT License.
 
 Acknowledgements :-
+
 OpenWeatherMap API for providing weather data.
+
 Icons and images are sourced from OpenWeatherMap.
