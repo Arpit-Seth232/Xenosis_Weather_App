@@ -1,0 +1,104 @@
+*{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background: url(/media/bg.webp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 96vh;
+}
+
+
+
+.app-container {
+  width: 300px;
+  height: 50vh;
+  
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(/media/a1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+
+
+.result{
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  z-index: -1;
+  width: 250px;
+  backdrop-filter: blur(50px);
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 70%;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  font-size: 16px;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: rgb(62, 72, 80);
+  
+}
+
+.weather-result img {
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  border-radius: 50px;
+}
+
+@media (max-width: 786px) {
+  body{
+    flex-direction: column-reverse;
+  }
+  .app-container{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+  }
+  .result{
+    color: #D56C59;
+    min-height: 300px;
+  }
+
+}
